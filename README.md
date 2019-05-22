@@ -1,0 +1,1 @@
+# sequelize_one_to_many
